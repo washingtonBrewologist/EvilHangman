@@ -1,4 +1,4 @@
-#EvilHangman
+# EvilHangman
 
 In this version of hangman, The user will select a length for the words used during one round of game play. After selecting a word length and a max number of guesses allowed, The program will then pull out of the dictionary all of the words that are of the specified length. It will then use all of these words at the same time against the users guesses. As the user makes guesses, the program will update the pattern of words it's concidering and never actually picking a word untill there is only one possible word left in the set.
 
