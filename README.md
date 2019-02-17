@@ -4,13 +4,13 @@ In this version of hangman, The user will select a length for the words used dur
 
 Repo Contains:
 
-HangmanMain.java  -> This is the client program. Contains main and is where you can specify which dictionary you wish to use.
+# HangmanMain.java  -> This is the client program. Contains main and is where you can specify which dictionary you wish to use.
 
-HangmanManager.java -> This is the class file giving functionality to the client program. 
+# HangmanManager.java -> This is the class file giving functionality to the client program. 
 
-dictionary2.txt -> Used as a test file when debugging program. Only contains 9, 4-letter words.
+# dictionary2.txt -> Used as a test file when debugging program. Only contains 9, 4-letter words.
 
-dictionary.txt -> This is the official scrabble dictionary ( http://www.hasbro.com/scrabble/en_US/search.cfm ) 
+# dictionary.txt -> This is the official scrabble dictionary ( http://www.hasbro.com/scrabble/en_US/search.cfm ) 
 
 To acctually play the game turn debug=false;
 
