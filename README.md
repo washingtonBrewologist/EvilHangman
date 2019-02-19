@@ -6,12 +6,16 @@ In this version of hangman, The user will select a length for the words used dur
 
 HangmanMain.java  -> This is the client program. Contains main and is where you can specify which dictionary you wish to use.
 
+Toggle : debug=false <-> debug=true; 
+debug=true will display remaining wordset being considered by the computer
+debug=false for a challenging round oh hangman!
+
 HangmanManager.java -> This is the class file giving functionality to the client program. 
 
 dictionary2.txt -> Used as a test file when debugging program. Only contains 9, 4-letter words.
 
 dictionary.txt -> This is the official scrabble dictionary ( http://www.hasbro.com/scrabble/en_US/search.cfm ) 
 
-To acctually play the game turn debug=false;
+
 
 Enjoy!
